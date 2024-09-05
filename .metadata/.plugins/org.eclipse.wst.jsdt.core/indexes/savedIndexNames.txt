@@ -1,0 +1,18 @@
+INDEX VERSION 1.4+/Users/josemanuelmendez/eclipse-workspace/cursoJava2024EE/ServiciosRest/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+402549241.index
+1779584180.index
+4173025324.index
+3824133755.index
+1730077385.index
+104997703.index
+883459522.index
+982716390.index
+2000772174.index
+2741445238.index
+675368248.index
+1182097790.index
+3273408000.index
+584041689.index
+1873726000.index
+4088873435.index
+911651870.index

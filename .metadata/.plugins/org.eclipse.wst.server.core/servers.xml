@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v10.1 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v10.1 Server at localhost" name="Tomcat v10.1 Server at localhost" runtime-id="Apache Tomcat v10.1 (2)" server-type="org.eclipse.jst.server.tomcat.101" server-type-id="org.eclipse.jst.server.tomcat.101" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="07_servicio_formacion::org.eclipse.jst.jee.server:07_servicio_formacion::jst.web::6.0" value1="09_cliente_final_formacion::org.eclipse.jst.jee.server:09_cliente_final_formacion::jst.web::6.0" value2="04_servicio_crud_cursos::org.eclipse.jst.jee.server:04_servicio_crud_cursos::jst.web::6.0"/>
+  </server>
+</servers>
