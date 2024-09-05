@@ -1,0 +1,24 @@
+package controller;
+
+import java.util.List;
+
+import jakarta.ws.rs.GET;
+import jakarta.ws.rs.Path;
+import jakarta.ws.rs.PathParam;
+import jakarta.ws.rs.Produces;
+import jakarta.ws.rs.core.MediaType;
+import model.Resultado;
+import service.BuscadorService;
+
+ @Path("/buscador")
+public class BuscadorController {
+
+	 @GET
+	 @Path("buscar/{tematica}")
+	 @Produces(MediaType.APPLICATION_JSON)
+	public List<Resultado> fichaProducto(@PathParam("tematica") String tematica) {
+		var BuscadorService= new BuscadorService();
+		return BuscadorService.buscar(tematica);
+	}
+
+}

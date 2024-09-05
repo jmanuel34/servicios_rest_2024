@@ -1,0 +1,8 @@
+127.0.0.1 - - [04/Sep/2024:10:47:36 +0200] "GET / HTTP/1.1" 404 688
+127.0.0.1 - - [04/Sep/2024:10:47:37 +0200] "GET /10_servicio_informacion_spring/ HTTP/1.1" 404 276
+0:0:0:0:0:0:0:1 - - [04/Sep/2024:10:48:02 +0200] "GET /10_servicio_informacion_spring/info HTTP/1.1" 200 69
+127.0.0.1 - - [04/Sep/2024:12:11:37 +0200] "GET / HTTP/1.1" 404 688
+127.0.0.1 - - [04/Sep/2024:12:11:37 +0200] "GET /11_servicio_crud_cursos/ HTTP/1.1" 404 276
+127.0.0.1 - - [04/Sep/2024:12:12:46 +0200] "GET /11_servicio_crud_cursos/recuperartodos HTTP/1.1" 200 296
+127.0.0.1 - - [04/Sep/2024:12:43:04 +0200] "GET / HTTP/1.1" 404 688
+127.0.0.1 - - [04/Sep/2024:12:43:04 +0200] "GET /11_servicio_crud_cursos/ HTTP/1.1" 404 716

@@ -1,0 +1,32 @@
+package service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import model.Curso;
+
+public class CursosService {
+	List<Curso> cursos = new ArrayList<>(List.of(
+			new Curso("Estadistica", "Basica", 140, 140.0),
+			new Curso("Algebra", "Basica", 135, 150.0)));
+	
+	public void alta(Curso curso) {
+		cursos.add(curso);
+	}
+	
+	public void eliminar(String nombre) {
+		cursos.removeIf(c->c.getNombre().equals(nombre));
+	}
+	
+	public void actualizar(Curso curso) {
+		for (int i=0; i<cursos.size(); i++) {
+			if (cursos.get(i).getNombre().equals(curso.getNombre())) {
+				cursos.get(i).setArea(curso.getArea());
+				cursos.get(i).setDuracion(curso.getDuracion());
+				cursos.get(i).setPrecio(curso.getPrecio());
+			}
+					
+		}
+	}
+
+}
