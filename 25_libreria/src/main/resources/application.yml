@@ -1,0 +1,4 @@
+server:
+  port: 9025
+  servlet:
+    context-path: /libreria

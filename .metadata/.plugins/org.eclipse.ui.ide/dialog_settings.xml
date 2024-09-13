@@ -7,6 +7,15 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="Y:\ejercicios\servicios_rest\repositorio_git\16_microservicio_paises"/>
+			<item value="Y:\ejercicios\servicios_rest\21_microservicio_libros"/>
+			<item value="Y:\ejercicios\servicios_rest\repositorio_git\18_microservicio_cursos_securizado"/>
+			<item value="Y:\ejercicios\servicios_rest\19_microservicio_cursos_securizado_BD"/>
+			<item value="Y:\ejercicios\servicios_rest\20_microservicio_formacion_acceso_seguro"/>
+			<item value="Y:\ejercicios\servicios_rest\16_microservicio_paises"/>
+			<item value="Y:\ejercicios\servicios_rest\repositorio_git\09_cliente_final_formacion"/>
+			<item value="Y:\ejercicios\servicios_rest\15_cliente_final_formacion"/>
+			<item value="Y:\ejercicios\servicios_rest\14_microservicio_formacion"/>
 			<item value="Y:\ejercicios\servicios_rest\13_microservicio_buscador"/>
 			<item value="Y:\ejercicios\servicios_rest\12_microservicio_cursos"/>
 			<item value="Y:\ejercicios\servicios_rest\11_servicio_crud_cursos"/>
@@ -20,8 +29,8 @@
 			<item value=""/>
 		</list>
 		<section name="ExternalProjectImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="684"/>
-			<item key="DIALOG_Y_ORIGIN" value="142"/>
+			<item key="DIALOG_X_ORIGIN" value="588"/>
+			<item key="DIALOG_Y_ORIGIN" value="119"/>
 			<item key="DIALOG_WIDTH" value="525"/>
 			<item key="DIALOG_HEIGHT" value="710"/>
 			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
@@ -32,6 +41,26 @@
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 		</list>
 		<section name="NewWizard.dialogBounds">
+		</section>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\manana\Curso Java\CursoJavaEE2024\Ejercicios\ServiciosRest\16_microservicio_paises"/>
+			<item value="Y:\ejercicios\servicios_rest\20_microservicio_formacion_acceso_seguro"/>
+			<item value="Y:\ejercicios\servicios_rest\19_microservicio_cursos_securizado_BD"/>
+			<item value="Y:\ejercicios\servicios_rest\repositorio_git\18_microservicio_cursos_securizado"/>
+			<item value="Y:\ejercicios\servicios_rest\repositorio_git\17_cliente_paises"/>
+		</list>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="523"/>
+			<item key="DIALOG_Y_ORIGIN" value="142"/>
+			<item key="DIALOG_WIDTH" value="885"/>
+			<item key="DIALOG_HEIGHT" value="629"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 		</section>
 	</section>
 </section>

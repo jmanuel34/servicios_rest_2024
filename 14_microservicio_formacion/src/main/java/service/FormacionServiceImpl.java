@@ -36,7 +36,8 @@ public class FormacionServiceImpl implements FormacionService {
 		.uri(url+"alta")
 		.contentType(MediaType.APPLICATION_JSON)
 		.body(formacion)
-		.retrieve();
+		.retrieve()
+		.toBodilessEntity();
 
 	}
 
