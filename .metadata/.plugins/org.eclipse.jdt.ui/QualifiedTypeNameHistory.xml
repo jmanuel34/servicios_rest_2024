@@ -43,4 +43,5 @@
     <fullyQualifiedTypeName name="init.model.LibroJson"/>
     <fullyQualifiedTypeName name="init.model.Book"/>
     <fullyQualifiedTypeName name="init.utilidades.Mapeador"/>
+    <fullyQualifiedTypeName name="io.swagger.v3.oas.annotations.Operation"/>
 </qualifiedTypeNameHistroy>
